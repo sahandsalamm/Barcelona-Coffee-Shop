@@ -29,8 +29,7 @@ body {
         background-color: #8f522a;
         background-image: url('Camp-Nou.jpg');
         background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: contain;
+        background-size: cover;
         background-position: center;
         height: 90vh;
         position: relative;
@@ -590,5 +589,6 @@ footer p:first-child {
     .header{
     }
 }
+
 
 
